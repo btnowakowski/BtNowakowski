@@ -9,7 +9,7 @@ I enjoy working on clean architecture, reliable tests and code that’s easy to 
 - **Testing & automation** (unit, integration, basic e2e)
 - **Linux**, Bash, PowerShell
 - **Git**, GitHub Actions
-- **SQL / MySQL**
+- **PostgreSQL**
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,mysql,vscode,git,linux,powershell,bash)](https://github.com/BtNowakowski?tab=repositories)
 
