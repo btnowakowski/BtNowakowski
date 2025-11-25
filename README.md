@@ -15,7 +15,7 @@ I enjoy working on clean architecture, reliable tests and code that’s easy to 
 
 ## Recent work
 
-- **[Accommodations – Django Booking System](https://github.com/btnowakowski/mvc_projekt_semestralny)**  **[Live](https://www.accommodations.site/)**  
+- **[Accommodations – Django Booking System](https://github.com/btnowakowski/mvc_projekt_semestralny)** - **[LIVE VERSION](https://www.accommodations.site/)**  
   Python-based MVC application made in Django focusing on clear structure, routing, controllers and simple backend logic. 
 
 - **[Python Poker](https://github.com/BtNowakowski/python_poker)**  
