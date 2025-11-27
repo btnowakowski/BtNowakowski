@@ -18,7 +18,7 @@ I enjoy working on clean architecture, reliable tests and code that’s easy to 
 - **[Accommodations – Service Booking Platform](https://github.com/btnowakowski/service-booking-platform)** - **[LIVE VERSION](https://www.accommodations.site/)**  
   A production-ready Django booking system with a calendar-based reservation flow, user authentication, form validation and a clean, structured backend built on Django’s ORM and database storage.
   
-- **[Accommodations – Service Booking Platform](https://github.com/btnowakowski/service-booking-platform-tests)** 
+- **[Service Booking Platform Tests](https://github.com/btnowakowski/service-booking-platform-tests)** 
   An automated end-to-end test suite for the service-booking-platform project, executed through GitHub Actions. The project includes Allure-generated test reports that are automatically published to GitHub Pages.
 
 - **[Python Poker](https://github.com/BtNowakowski/python_poker)**  
