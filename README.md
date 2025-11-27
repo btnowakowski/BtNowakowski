@@ -15,7 +15,7 @@ I enjoy working on clean architecture, reliable tests and code that’s easy to 
 
 ## Recent work
 
-- **[Accommodations – Django Booking System](https://github.com/btnowakowski/service-booking-platform)** - **[LIVE VERSION](https://www.accommodations.site/)**  
+- **[Accommodations – Service Booking Platform](https://github.com/btnowakowski/service-booking-platform)** - **[LIVE VERSION](https://www.accommodations.site/)**  
   A production-ready Django booking system with a calendar-based reservation flow, user authentication, form validation and a clean, structured backend built on Django’s ORM and database storage.
 
 - **[Python Poker](https://github.com/BtNowakowski/python_poker)**  
