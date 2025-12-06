@@ -5,7 +5,7 @@ I enjoy working on clean architecture, reliable tests and code that’s easy to 
 
 ## Tech stack
 
-- **Python / FastAPI**
+- **Python / FastAPI / Django**
 - **Testing & automation** (unit, integration, basic e2e)
 - **Linux**, Bash, PowerShell
 - **Git**, GitHub Actions
